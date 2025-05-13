@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_blocks_section_youtubes",
+  "info": {
+    "displayName": "Section Youtube",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Clip": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.youtube-clip"
+    }
+  }
+}

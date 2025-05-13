@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_layout_footers",
+  "info": {
+    "displayName": "Footer",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Icon": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.link"
+    },
+    "text": {
+      "type": "text"
+    },
+    "map": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.map"
+    }
+  }
+}

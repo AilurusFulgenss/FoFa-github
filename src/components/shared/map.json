@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_shared_maps",
+  "info": {
+    "displayName": "Map"
+  },
+  "options": {},
+  "attributes": {
+    "map": {
+      "type": "richtext"
+    }
+  }
+}

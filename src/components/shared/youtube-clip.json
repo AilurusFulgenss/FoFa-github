@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_shared_youtube_clips",
+  "info": {
+    "displayName": "youtubeClip"
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "clip": {
+      "type": "blocks"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_blocks_heroes",
+  "info": {
+    "displayName": "Hero",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "HeroPicture": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.hero-banner"
+    }
+  }
+}
